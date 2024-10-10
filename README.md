@@ -8,4 +8,5 @@ HTML5
 CSS3 (Flexbox, Grid, etc.)
 
 
-### Screenshots![Screenshot (129)](https://github.com/user-attachments/assets/9b2cc376-0b7e-451d-a198-244fe4d5b010)
+### Live Project to watch 
+https://adeshdsouza94494.github.io/FlipCart-Clone-Design/
